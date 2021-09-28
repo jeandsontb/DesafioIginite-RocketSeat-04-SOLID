@@ -33,7 +33,7 @@ A rota deve receber, nos parâmetros da rota, o `id` de um usuário e devolver a
 A rota deve receber, pelo header da requisição, uma propriedade `user_id` contendo o `id` do usuário e retornar uma lista com todos os usuários cadastrados. O `id` deverá ser usado para validar se o usuário que está solicitando a listagem é um admin. O retorno da lista deve ser feito apenas se o usuário for admin.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Test" title="#Test" src="" width="400px">
+  <img alt="Test" title="#Test" src="https://raw.githubusercontent.com/jeandsontb/DesafioIginite-RocketSeat-04-SOLID/main/screens/desafioSolid.png" width="400px">
 
 ## 🛠 Tecnologias
 
