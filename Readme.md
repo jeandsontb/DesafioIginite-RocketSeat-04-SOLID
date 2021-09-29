@@ -35,6 +35,9 @@ A rota deve receber, pelo header da requisição, uma propriedade `user_id` cont
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Test" title="#Test" src="https://raw.githubusercontent.com/jeandsontb/DesafioIginite-RocketSeat-04-SOLID/main/screens/desafioSolid.png" width="400px">
 
+  <img alt="Test" title="#Test" src="https://raw.githubusercontent.com/jeandsontb/DesafioIginite-RocketSeat-04-SOLID/main/screens/Api-Atlas.png" width="400px">
+</p>
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
