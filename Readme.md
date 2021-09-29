@@ -69,6 +69,14 @@ BACKEND:
 
 ```
 
+ROTAS DA API:
+
+```bash
+
+  Com o servidor rodando, coloque o endereço para exibir as informações sobre as rotas da aplicação - http://localhost:3333/api-docs
+
+```
+
 ## Especificação para realizar os testes da aplicação
 
 ### Teste do model
